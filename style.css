@@ -1,0 +1,39 @@
+.img{
+    width: 190px;
+    border: 1px double white;
+    border-radius: 100%;
+    margin-left: 31%;
+    margin-top: 45px;
+}
+.profil{
+   width: 14cm;
+   height: 14cm;
+    border: 1px solid black;
+    border-radius: 75px;
+    background-color: rgba(0, 8, 255, 0.785);
+    margin: auto;
+}
+.text{
+    background-color: white;
+    border: 1px solid white ;
+   border-radius: 76px;
+   height: 286px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 27px;
+}
+.ad{
+    margin-left: 196px;
+}
+.lorem{
+    text-align: center;
+}
+.but{
+   color: white;
+    background-color:rgba(0, 8, 255, 0.785) ;
+    border-radius: 7px;
+    width: 179px;
+    height: 44px;
+    margin-left: 173px;
+    cursor: pointer;
+    border-color: white;
+}
